@@ -72,6 +72,13 @@ endmodule
 Developed by : Abdur Rahman Basil A H
 Registration numbr : 21222340002
 ```
+# Truth Table :
+## Half-adder:
+![image](https://github.com/arbasil05/HALF_ADDER_SUBTRACTOR/assets/144218037/60a9abae-d18e-4818-b5ef-8952db99af48)
+## Half-subtractor:
+![image](https://github.com/arbasil05/HALF_ADDER_SUBTRACTOR/assets/144218037/1ea5f214-b822-49fe-ad71-ccd4cd0d05b6)
+
+
 
 # RTL Schematic:
 ![image](https://github.com/arbasil05/HALF_ADDER_SUBTRACTOR/assets/144218037/f6224e20-50a1-409a-8bc1-f2ef269ba441)
